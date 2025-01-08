@@ -11,7 +11,7 @@ A junior web developer passionate about Software Engineering. I constantly learn
 
 - 🌱 I’m currently learning **Nuxt js, Laravel, Javascript**
 
-- 👨‍💻 All of my projects are available at [zaasfood.vercel.app](zaasfood.vercel.app)
+- 👨‍💻 All of my projects are available at [zaaasfood.vercel.app](zaaasfood.vercel.app)
 
 - 💬 Ask me about **How to be a sigma, My favorite frameworks and why I love using them, My favorite language according to Me**
 
